@@ -41,3 +41,25 @@ var quote = "you are a blockhead!";
 'My favorite Peanuts character is xxxxxx.'
 Console.log the variable.*/
 
+/*9. As a valued customer at the Bank of Honolulu, you make a deposit of $1000. Your savings account balance prior to the deposit has an amount of $8000. Calculate the new savings account balance. 
+Console.log the new savings account balance.*/
+
+/*10. You are bitten by the cryptocurrency bug and decide to withdraw $3000 to purchase Bitcoins. Calculate your new savings account balance. 
+Console.log the new savings account balance.*/
+
+/*11. Today is your lucky day! After purchasing 2 Bitcoins, someone mining the blockchain is giving away an extra coin to anyone who just made a Bitcoin purchase. Update the quantity of your Bitcoin.
+Console.log the new Bitcoin quantity amount.*/
+
+/*12. Your bank is having a promotion. Any savings account balance that is an even number will win a cash prize of $500 that will be deposited into the savings account. Use the modulus operator to check whether your savings account balance is an even number. 
+Console.log the new savings account balance.*/
+
+/*13. You need to pay taxes on the $500 cash prize that you won to the IRS :( The tax rate is 30%. Calculate the tax amount and your adjusted savings account balance.
+Console.log the tax amount and your new savings account balance.*/
+
+/*14. The savings account accrues an annual interest rate of 2%. 
+Calculate the interest earned for the first quarter of 2018.
+Console.log the interest earned during the first 3 months of 2018.*/
+
+/*15. Someone just hacked into the blockchain and decreased everyone's Bitcoin holding by 1. Update the quantity of your Bitcoin. 
+Console.log the new Bitcoin quantity amount.*/
+
